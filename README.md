@@ -20,7 +20,7 @@ It integrates **offline voice recognition (Vosk)**, **Tesseract OCR**, and **inv
 ---
 
 ### 🧰 Hardware Components  
-- Raspberry Pi 4 Model B (4GB)  
+- Raspberry Pi 4 Model B (8GB)  
 - PCA9685 Servo Driver  
 - 3 Servo Motors (Base, Shoulder, Elbow)  
 - USB Camera  
